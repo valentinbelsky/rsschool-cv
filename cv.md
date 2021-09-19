@@ -31,12 +31,14 @@
 
 + HTML
 + CSS
++ JS
++ C#
 
 ---
 
 ## Experience
 
->A little practice HTML/CSS
+>A little practice HTML/CSS, JS, C#
 
 ---
 
