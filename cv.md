@@ -3,8 +3,8 @@
 ---
 
 ## Contacts
->tel: [+375 (29) 232-82-05](tel:+375292328205)
->mail: [valentinbelsky@live.com](mailto:valentinbelsky@live.com)
+>tel: +375 (29) 232-82-05\
+>mail: [valentinbelsky@live.com](mailto:valentinbelsky@live.com)\
 >Telegram: [@ValentinBelsky](https://t.me/valentinbelsky)
 
 ---
