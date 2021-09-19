@@ -41,9 +41,9 @@
 ---
 
 ## Code example
-
->console.log("Hello RS-School")
-
+```sh
+console.log("Hello RS-School")
+```
 ---
 
 ## English
