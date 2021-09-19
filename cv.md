@@ -1,0 +1,52 @@
+# Valentin Belsky
+
+---
+
+## Contacts
+>tel: +375 (29) 232-82-05\
+>mail: valentinbelsky@live.com\
+>Telegram: @ValentinBelsky
+
+---
+
+## About me
+
+>There's a combination of engineering skills and creative nature in me. 
+>I like to create something interesting even in everyday life. 
+>My goal’s to convert my hobby to my favorite job.
+
+
+---
+
+## Education
+
+* BNTU
+* online course:
+   * stepik
+   * it-academy
+
+---
+
+## Skills
+
++ HTML
++ CSS
+
+---
+
+## Experience
+
+>A little practice HTML/CSS
+
+---
+
+## Code example
+
+>console.log("Hello RS-School")
+
+---
+
+## English
+
+>My English is at A2 level. 
+>I know, I’m not very good at pronunciation, but I’m working on it. 
